@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">661773731123-8d5o79pob3vpqubc08rqommt0sgj5uvm.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://telqani-1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">661773731123</string>
+    <string name="google_api_key" translatable="false">AIzaSyAcUyqvlSos0R0hvfU9yF2qNxB8dKJCpPE</string>
+    <string name="google_app_id" translatable="false">1:661773731123:android:4a1dfccd63de312f636a46</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAcUyqvlSos0R0hvfU9yF2qNxB8dKJCpPE</string>
+    <string name="google_storage_bucket" translatable="false">telqani-1.appspot.com</string>
+    <string name="project_id" translatable="false">telqani-1</string>
+</resources>
