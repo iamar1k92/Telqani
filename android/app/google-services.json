@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661773731123",
+    "firebase_url": "https://telqani-1.firebaseio.com",
+    "project_id": "telqani-1",
+    "storage_bucket": "telqani-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661773731123:android:4a1dfccd63de312f636a46",
+        "android_client_info": {
+          "package_name": "com.anahena.telqani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661773731123-fdhfnkcg2gvnkslib73mk1o84ubj8j9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anahena.telqani",
+            "certificate_hash": "af78bd36a7d8a2fbac2390fa510bf3bb3629291e"
+          }
+        },
+        {
+          "client_id": "661773731123-8d5o79pob3vpqubc08rqommt0sgj5uvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcUyqvlSos0R0hvfU9yF2qNxB8dKJCpPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661773731123-8d5o79pob3vpqubc08rqommt0sgj5uvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
